@@ -1,0 +1,98 @@
+* {
+    padding: 8px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#tweet {
+    float: right;
+    padding-top: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+#face {
+    float: right;
+    padding-top: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+#insta {
+    float: right;
+    padding-top: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+#git {
+    float: right;
+    padding-top: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+.img-fluid {
+    width: 30px;
+    height: 20px;
+}
+
+#boddy {
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.jumbotron {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #0d6efd;
+}
+
+strong {
+    padding: 0px;
+}
+
+
+#centerr {
+    align-content: left;
+}
+
+.btn {
+    border-radius: 20px;
+    background-color: white;
+}
+
+#but:hover {
+    background-color: #34bb99;
+    color: white;
+}
+
+#profile {
+    width: 150px;
+    height: 150px;
+    align-content: left;
+}
+
+.img-thumbnail {
+    box-shadow: 5px 10px 8px black;
+}
+
+#profilee {
+    width: 100px;
+}
+
+#just {
+    padding: 10px;
+    max-width: 90px;
+}
+
+.progress {
+    padding: 0px;
+}
+
+.progress-bar {
+    padding: 0px;
+    border-radius: 20px;
+}
+
+#gren {
+    background-color: rgb(52, 187, 153);
+}
