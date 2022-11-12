@@ -14,36 +14,56 @@ WILSON JEROME
 
 ### Checklist:
 
-- [x] Ideation Phase
+- [ ] Setting Up of Environment
+  - [ ] Create Flask Project 
+  - [ ] Create IBM Cloud Account
+  - [ ] Install IBM Cloud CLI 
+  - [ ] Docker CLI Installation
+  - [ ] Create an Account in SendGrid 
+  - [ ] Create an Account in Nutrition API
+
+
+- [ ] IMPLEMENTING WEB APPLICATION
+  - [ ] Create UI To Interact With Application
+  - [ ] Create IBM DB2 And Connect With Python
+  - [ ] Integrate Nutrition API
+
+
+- [ ] INTEGRATING SENDGRID SERVICE
+  - [ ] SendGrid Integration With Python Code
+
+
+- [ ] DEPLOYMENT OF APP IN IBM CLOUD
+  - [ ] Containerize The App
+  - [ ] Upload Image To IBM Container Registry
+  - [ ] Deploy In Kubernetes Cluster
+
+
+- [x] IDEATION PHASE
   - [x] Literature Survey 
   - [x] Empathy Map 
-  - [x] Problem Statement
-  - [x] Brainstorm & Ideation
+  - [x] Ideation
   
-- [x] Project Design Phase - I
+  
+- [x] PROJECT DESIGN PHASE - I
   - [x] Proposed Solution 
   - [x] Problem Solution Fit
   - [x] Solution Architecture
   
-- [x] Project Design Phase - II
+  
+- [x] PROJECT DESIGN PHASE  - II
   - [x] Customer Journey
   - [x] Solution Requirements
   - [x] Data Flow Daigrams
   - [x] Technology Architecture
-
-- [x] Project Planning Phase
-  - [x] Milestone & Activity List 
-  - [x] Sprint Delivery Plan
   
-- [x] Setting Up of Environment
-  - [x] Create Flask Project 
-  - [x] Create IBM Cloud Account
-  - [x] Install IBM Cloud CLI 
-  - [x] Docker CLI Installation
-  - [x] Create an Account in SendGrid 
-  - [ ] Create an Account in Nutrition API
 
-- [ ] Project Development Phase
+- [ ] PROJECT PLANNING PHASE
+  - [ ] Prepare Milestone & Activity List
+  - [ ] Sprint Delivery Phase
+
+
+- [ ] PROJECT DEVELOPMENT PHASE
   - [ ] Sprint 1
   - [ ] Sprint 2
   - [ ] Sprint 3
