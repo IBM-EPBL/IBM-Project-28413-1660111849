@@ -18,7 +18,7 @@ WILSON JEROME
   - [ ] Create Flask Project 
   - [ ] Create IBM Cloud Account
   - [ ] Install IBM Cloud CLI 
-  - [ ] Docker CLI Installation
+  - [x] Docker CLI Installation
   - [ ] Create an Account in SendGrid 
   - [ ] Create an Account in Nutrition API
 
