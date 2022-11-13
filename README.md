@@ -17,7 +17,7 @@ WILSON JEROME
 ### Checklist:
 
 - [ ] Setting Up of Environment
-  - [ ] Create Flask Project 
+  - [X] Create Flask Project 
   - [x] Create IBM Cloud Account
   - [ ] Install IBM Cloud CLI 
   - [x] Docker CLI Installation
