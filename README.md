@@ -16,7 +16,7 @@ WILSON JEROME
 
 - [ ] Setting Up of Environment
   - [ ] Create Flask Project 
-  - [ ] Create IBM Cloud Account
+  - [x] Create IBM Cloud Account
   - [ ] Install IBM Cloud CLI 
   - [x] Docker CLI Installation
   - [ ] Create an Account in SendGrid 
