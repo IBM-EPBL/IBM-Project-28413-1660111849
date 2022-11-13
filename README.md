@@ -1,11 +1,11 @@
 # IBM-Project-28413-1660111849
 
-#Nutrition assistant Application
+Nutrition assistant Application
 
 ### Team ID : PNT2022TMID07401
 
 ### Team Leader : 
-#SOUNDHARIYAN
+SOUNDHARIYAN
 
 ### Team members : 
 SAPNA
