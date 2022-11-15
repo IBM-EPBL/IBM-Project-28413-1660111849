@@ -1,0 +1,6 @@
+Assignment-2
+1.Create a Flask App
+2.Add the Home page, About Page
+3. Add the Bootstrap
+4. Add the Sign in page and add the Signup Page with database connectivity
+5.Use IBM Db2 as Database
