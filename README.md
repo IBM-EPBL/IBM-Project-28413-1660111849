@@ -60,9 +60,9 @@ WILSON JEROME
   - [x] Technology Architecture
   
 
-- [ ] PROJECT PLANNING PHASE
-  - [ ] Prepare Milestone & Activity List
-  - [ ] Sprint Delivery Phase
+- [x] PROJECT PLANNING PHASE
+  - [x] Prepare Milestone & Activity List
+  - [x] Sprint Delivery Phase
 
 
 - [ ] PROJECT DEVELOPMENT PHASE
