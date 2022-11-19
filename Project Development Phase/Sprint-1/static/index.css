@@ -1,0 +1,32 @@
+body
+{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url('https://nutritious-food.s3.us-south.cloud-object-storage.appdomain.cloud/healthy-menu-recipe-food-diet.jpg');
+}
+.box
+{
+    border: 1px solid black;
+    padding: 20px;
+    margin : 20px;
+    background-color: rgba(228, 228, 228, 0.582);
+}
+.imge
+{
+    height: 300px;
+    width: 300px;
+}
+.imagehead
+{
+    display: flex;
+    margin-bottom: 100px;
+}
+.head
+{
+    border:1px solid black;
+    border-radius: 3px;
+    background-color: rgba(143, 2, 2, 0.836);
+    color: rgb(168, 253, 9);
+    font-family: cursive;
+}
