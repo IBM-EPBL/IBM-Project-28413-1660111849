@@ -1,0 +1,87 @@
+body
+{
+    align-items: center;
+    background-image: url('https://nutritious-food.s3.us-south.cloud-object-storage.appdomain.cloud/bg-img.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.main
+{
+    display: flex;
+    justify-content: center;
+}
+.btn
+{
+    border-radius: 3px;
+    padding-top: 3px;
+    text-decoration: none;
+    color: rgb(4, 0, 255);
+    
+}
+.hed
+{
+    border: 1px solid black;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgba(255, 0, 106, 0.808);
+    font-family: 'Courier New', Courier, monospace;
+}
+.cont
+{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+    margin-top: 55px;
+    margin-left: 100px;
+    margin-right: 450px;
+    background-color: rgba(0, 255, 221, 0.479);
+    margin-bottom: 150px;
+    margin-bottom: 300px;
+}
+.cont2
+{
+    border: 1px solid black;
+    margin-right: 100px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 700px;
+    background-color: rgba(0, 255, 42, 0.479);
+    margin-top: 50px;
+}
+.imagei
+{
+    height: 100px;
+    width: 100px;
+    transition: .8s;
+}
+.slo
+{
+    font-family: cursive;
+}
+.imagei:hover
+{
+    transform: translateY(-10px);
+}
+.logi
+{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 8px;
+    margin: 3px;
+    border-radius: 3px;
+    background-color: black;
+    color: aqua;
+}
+.reg
+{
+    text-decoration: none;
+}
