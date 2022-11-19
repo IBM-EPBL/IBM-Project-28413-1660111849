@@ -16,29 +16,29 @@ WILSON JEROME
 
 ### Checklist:
 
-- [ ] Setting Up of Environment
+- [x] Setting Up of Environment
   - [X] Create Flask Project 
   - [x] Create IBM Cloud Account
-  - [ ] Install IBM Cloud CLI 
+  - [x] Install IBM Cloud CLI 
   - [x] Docker CLI Installation
-  - [ ] Create an Account in SendGrid 
-  - [ ] Create an Account in Nutrition API
+  - [x] Create an Account in SendGrid 
+  - [x] Create an Account in Nutrition API
 
 
-- [ ] IMPLEMENTING WEB APPLICATION
-  - [ ] Create UI To Interact With Application
-  - [ ] Create IBM DB2 And Connect With Python
-  - [ ] Integrate Nutrition API
+- [x] IMPLEMENTING WEB APPLICATION
+  - [x] Create UI To Interact With Application
+  - [x] Create IBM DB2 And Connect With Python
+  - [x] Integrate Nutrition API
 
 
-- [ ] INTEGRATING SENDGRID SERVICE
-  - [ ] SendGrid Integration With Python Code
+- [x] INTEGRATING SENDGRID SERVICE
+  - [x] SendGrid Integration With Python Code
 
 
-- [ ] DEPLOYMENT OF APP IN IBM CLOUD
-  - [ ] Containerize The App
-  - [ ] Upload Image To IBM Container Registry
-  - [ ] Deploy In Kubernetes Cluster
+- [x] DEPLOYMENT OF APP IN IBM CLOUD
+  - [x] Containerize The App
+  - [x] Upload Image To IBM Container Registry
+  - [x] Deploy In Kubernetes Cluster
 
 
 - [x] IDEATION PHASE
@@ -65,8 +65,8 @@ WILSON JEROME
   - [x] Sprint Delivery Phase
 
 
-- [ ] PROJECT DEVELOPMENT PHASE
-  - [ ] Sprint 1
-  - [ ] Sprint 2
-  - [ ] Sprint 3
-  - [ ] Sprint 4
+- [x] PROJECT DEVELOPMENT PHASE
+  - [x] Sprint 1
+  - [x] Sprint 2
+  - [x] Sprint 3
+  - [x] Sprint 4
